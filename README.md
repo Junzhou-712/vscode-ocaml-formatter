@@ -1,2 +1,2 @@
 # vscode-ocaml-formatter
-Make your own ocaml code stylish, incident-sensitive and readable
+Make your own ocaml code stylish, indentation-sensitive and readable
